@@ -1,4 +1,4 @@
-# 🎙️ Chatterbox Multilingual Voice Cloner
+# Voice Cloner
 
 Chatterbox ek advanced AI voice cloning tool hai jo high-quality speech generate karta hai. Ye tool multiple languages ko support karta hai aur kisi bhi voice sample ko clone karne ki salahiyat rakhta hai.
 
